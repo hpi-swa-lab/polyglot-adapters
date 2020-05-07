@@ -28,5 +28,5 @@ Genova, Italy, 2019, ACM DL.
 [icw19_bibtex]: https://dl.acm.org/downformats.cfm?id=3328458&parent_id=3328433&expformat=bibtex
 [icw19_doi]: https://img.shields.io/badge/doi-10.1145/3328433.3328458-blue.svg
 [icw19_paper]: https://doi.org/10.1145/3328433.3328458
-[icw19_pdf]: https://fniephaus.com/2018/icw19-graalsqueak.pdf
+[icw19_pdf]: https://fniephaus.com/2019/icw19-polyglot-adapters.pdf
 [preprint]: https://img.shields.io/badge/preprint-download-blue.svg
